@@ -9,7 +9,7 @@ Sattva, Abhinaya, Sattvika abhinaya, Angika abhinaya, Vachika abhinaya, Bhava, V
 
 ---
 
-## 1. Introduction and Background
+## 1. Background and Context
 
 > Yato hastas tato drushtih, yato drushtis tato manah,
 > Yato manas tato bhavo, yato bhavas tato rasah.
@@ -20,14 +20,13 @@ This verse articulates a flow that begins in the body (hasta), moves through the
 
 In Indian aesthetics, dance is a form of communication: every performance aims to carry meaning and emotion from the performer to the audience. Bharata's _Natyashastra_ names four modes of _abhinaya_ for this purpose: _angika_, _vachika_, _aharya_ and _sattvika_. _Angika_ provides the movements and gestures of the body (_anga_, _pratyanga_, _upanga_, _hasta_), and _vachika_ provides the lyric, music and meaning. _Sattvika_ is what brings both of them to life with genuine inner feeling. This research begins from the view that even technically correct _angika_ and _vachika_ cannot produce **rasa** in the _sahrudaya_ (the sensitive spectator) without true _sattvika_. At the same time, _sattvika_ does not work on its own; it becomes visible to the audience only through _angika_ and _vachika_.
 
-### 1.1 The Concept of Sattvikabhinaya
+### 1.1 Brief Introduction of thesis
 
 The word _sattvikabhinaya_ comes from **sattva**. According to the _Natyashastra_, sattva is born from a focused and attentive mind. So sattvikabhinaya is the expression of an emotion that the performer truly feels inside, which then shows naturally on the body. The _Natyashastra_ lists eight such **sattvika bhavas**: _stambha_ (becoming still or stunned), _sveda_ (sweating), _romancha_ (hair standing on end), _svarabheda_ (change in voice), _vepathu_ (trembling), _vaivarnya_ (change in complexion), _ashru_ (tears) and _pralaya_ (fainting).
 
 Theoretically, this study engages with:
 
 - **Bharata's Rasa-sutra** (_vibhavanubhava-vyabhichari-samyogad rasa-nishpattih_), which posits rasa as the outcome of the combination of determinants (_vibhava_), consequents (_anubhava_) and transitory states (_vyabhichari bhava_).
-- **Abhinavagupta's** theory of **sadharanikarana** (generalisation/universalisation) in the _Abhinavabharati_, through which the poet (_kavi_), performer (_nata_) and spectator (_sahrudaya_) converge into a shared aesthetic consciousness.
 - The idea of the performer's **tanmayibhava** (identification), that is, the capacity to inhabit a character other than oneself while retaining aesthetic distance, thereby enabling the spectator to experience the same emotional state.
 
 ## 2. Objectives of the Study
@@ -35,7 +34,7 @@ Theoretically, this study engages with:
 - To critically examine the textual sources on _sattva_, _abhinaya_, _bhava_ and _rasa_.
 - To analyse the interrelationship between _sattvika_, _angika_ and _vachika_ abhinaya.
 - To document how characters (_patras_) and their _bhavas_ are developed in a Kuchipudi _nrutya natika_.
-- To develop a lyric-to-rasa analytical model for _padam_ and _javali_.
+- To develop vachika to satvikabhava analytical model for _padam_ and _javali_.
 - To create a theoretically grounded, practically applicable resource for young learners.
 
 ## 3. Research Gap and Problem Statement
@@ -58,11 +57,18 @@ Bringing all the findings together and writing the thesis, the study will offer 
 - **Padam** and **Javali** as solo abhinaya centric repertoire
 - Classical treatises as the theoretical foundation
 
-## 5. Research Methodology
+## 5. Reseach Questions
 
-The study adopts a **qualitative, interdisciplinary research design**, combining **textual performance analysis, fieldwork** and **practice-as-research**. Findings from each strand will be **triangulated** to test textual theory against lived performance practice.
+1. How satvikabhinaya is expressed in the context of texts?
+2. How Satvikabhinaya works together with angika and vachika abhinaya ?
+3. How satva and abhinaya are interrelated and how the rasa will be generated ?
+4. How do Kuchipudi practitioners understand and convey sattvika in performance?
 
-### 5.1 Methodological Framework
+## 6. Research Methodology
+
+The study adopts a **qualitative, interdisciplinary research design**, combining **textual analysis, performance analysis** and **fieldwork**.
+
+### 6.1 Methodological Framework
 
 **PHASE I: Textual and Theoretical Inquiry (Shastra)**
 
@@ -103,7 +109,7 @@ The study adopts a **qualitative, interdisciplinary research design**, combining
     - Identification of nayaka / nayika type and avastha
     - Mapping vibhava -> anubhava -> vyabhichari -> sthayi -> rasa
     - Determining the principal rasa that "floats in the upper layer"
-    - Comparative note: padam (restrained, introspective) vs. javali (lighter, more overtly sensuous)
+    - Comparative note: padam vs. javali
 11. Video-based micro-analysis
     - Frame-by-frame study of recorded performances to observe how sattvika states are rendered through eyes, face and breath
 
@@ -119,10 +125,10 @@ The study adopts a **qualitative, interdisciplinary research design**, combining
 
 **PHASE V: Synthesis and Model Building**
 
-17. Formulation of a "Lyric-to-Rasa" analytical model for Kuchipudi
+17. Formulation of a "Lyric-to-Bhava" analytical model
 18. Preparation of a practitioner-oriented guide for young learners
 
-### 5.2 The Proposed Analytical Model (Lyric-to-Rasa)
+### 6.2 The Proposed Analytical Model (Lyric-to-Rasa)
 
 The model proposes that the performer moves through the following stages, each one building on the previous:
 
@@ -132,46 +138,46 @@ Sahitya (the lyric)
     -> Bhavartha (contextual / emotional meaning)
       -> Vibhava (alambana: the character, uddipana: the setting)
         -> Anubhava (expressed through angika and vachika)
-          -> Sattvika bhava (inner state made visible)
+          -> Bhava (inner state made visible)
             -> Vyabhichari bhavas (transient states)
               -> Sthayi bhava (dominant emotion)
                 -> RASA in the sahrudaya
 ```
 
-### 5.3 Data Sources
+### 6.3 Data Sources
 
-The study will draw on both primary and secondary sources.
+The primary data sources of are
 
 - **Textual:** the classical treatises, namely the Natyashastra, Abhinavabharati, Abhinaya Darpanam and Sattvikabhinayam
 - **Performative:** Kuchipudi nrutya natikas and selected padams and javalis
-- **Oral:** interviews with gurus,, choreographers and performers
+- **Oral:** interviews with gurus, choreographers and performers
 - **Videographic:** Captures of abhinaya pieces
 - Commentaries, translations, scholarly books, journal articles and dissertations related to the topic
 
-## 6. Limitations
+## 7. Limitations
 
-This research has certain limitations. It is restricted to the Kuchipudi style and does not attempt a comparison with other classical dance forms. Aharya abhinaya (costume and make-up) is mentioned only where it supports the other modes and is not studied in detail. The nayaka and nayika types will be referred to where needed, but they will not be studied in depth. Similarly, angika and vachika abhinaya will not be covered completely; only the aspects that directly support sattvika, such as mukhajabhinaya (facial expression), will be taken up. Because of the time available, only the main nrutya natika and a limited number of padams and javalis can be analysed in depth, and the interviews will mostly be with leading gurus, choreographers and artists. Sattvika bhava is an inner experience, so it cannot be measured fully and some part of its analysis will depend on observation and personal interpretation. The result of sattvikabhinaya is rasa, and this rasa arises in the audience, so it cannot be captured directly on video. What a video can show is the performer's abhinaya and the visible sattvika signs. Finally, some of the Sanskrit and Telugu texts may have to be studied through available translations and commentaries.
+This research has certain limitations. It is restricted to the Kuchipudi style and does not attempt a comparison with other classical dance forms. Aharya abhinaya (costume and make-up) is mentioned only where it supports the other modes and is not studied in detail. The nayaka and nayika types will be referred to where needed, but they will not be studied in depth. Similarly, angika and vachika abhinaya will not be covered completely; only the aspects that directly support sattvika, such as mukhajabhinaya (facial expression), will be taken up. Because of the time available, only the main nrutya natika and a limited number of padams and javalis can be analysed in depth, and the interviews will mostly be with leading gurus, choreographers and artists. Sattvika bhava is an inner experience, so it cannot be measured fully and some part of its analysis will depend on observation and personal interpretation. The result of sattvikabhinaya is rasa, and this rasa arises in the audience, so it cannot be captured directly on video. What a video can show is the performer's abhinaya and the visible sattvika signs. Finally, some traditional texts may have to be studied through available commentaries.
 
-## 7. Expected Outcomes and Significance
+## 8. Expected Outcomes and Significance
 
 - A **critical synthesis** of shastric perspectives on Sattvikabhinaya and its relationship to Angika and Vachika.
 - A **documented, scene-wise bhava and rasa analysis** of any selected Kuchipudi nritya natika and padams/javalis.
 - A **replicable Lyric-to-Rasa model** that young Kuchipudi practitioners can apply to any abhinaya composition.
-- Visual evidence of the conditions and manifestaions of rasa nishpatti
+- Visual documentation of the sattvika signs that contribute to rasa nishpatti
 - A contribution to **dance pedagogy** by bridging the gap between shastra (theory) and prayoga (practice), helping learners understand not only what expression to give, but why and how it generates rasa.
 
-## 8. Tentative Chapterisation
+## 9. Tentative Chapterisation
 
 1. Introduction: background, research problem, objectives and methodology
 2. Sattva and Abhinaya in the textual traditions
 3. Bhava, Rasa and the Nayaka-Nayika paradigm
 4. Angika and Vachika as vehicles of Sattvika
 5. Case Study: a Kuchipudi Nrutya Natika
-6. Case Study: _Padam_ and _Javali_ & Collect videographic evidences
+6. Case Study: _Padam_ and _Javali_
 7. Practitioners' perspectives : fieldwork findings
 8. Conclusion: findings, the Lyric-to-Rasa model, and scope for further research
 
-## 9. Bibliography
+## 10. Bibliography
 
 - Bharatamuni, _Natyashastra_
 - Abhinavagupta, _Abhinavabharati_ (commentary on the _Natyashastra_)
